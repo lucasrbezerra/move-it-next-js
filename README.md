@@ -30,6 +30,7 @@ and testing purposes. See deployment for notes on how to deploy the project on a
 ```$ git clone https://github.com/lucasrbezerra/move-it-next-js.git```
 
 2. Execute: 
+
 ```$ yarn ```
 
 ```$ yarn dev ```
