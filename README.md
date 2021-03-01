@@ -4,9 +4,9 @@ Projeto criado na Next Level Week 4 da Rocketseat.
 
 ## Presentations
 
-# Preview
+# Preview Desktop
 
-![page-landing](https://github.com/lucasrbezerra/nlw3-happy/blob/main/git_assets/page-landing.png)
+![preview-desktop](https://github.com/lucasrbezerra/move-it-next-js/blob/master/public/preview.png)
 
 
 ## Getting Started
