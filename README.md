@@ -4,7 +4,7 @@ Projeto criado na Next Level Week 4 da Rocketseat.
 
 ## Presentations
 
-# Preview Desktop
+### Preview Desktop
 
 ![preview-desktop](https://github.com/lucasrbezerra/move-it-next-js/blob/master/public/preview.png)
 
@@ -31,6 +31,7 @@ and testing purposes. See deployment for notes on how to deploy the project on a
 
 2. Execute: 
 ```$ yarn ```
+
 ```$ yarn dev ```
 
 ## Built With
